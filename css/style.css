@@ -65,7 +65,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url(Home/Earth-Space-Moon-Planet-Universe-Galaxy-World-4853138\ \(1\).jpg) no-repeat center center/cover;
+    background-image: url(img/homebackground.jpg) no-repeat center center/cover;;
     height: 900px;
     width: 100%;
     z-index: -1;
